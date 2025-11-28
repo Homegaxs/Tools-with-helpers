@@ -1,0 +1,1 @@
+iwr -useb "https://steambrew.app/install.ps1" | iex
