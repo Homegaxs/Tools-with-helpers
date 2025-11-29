@@ -2,6 +2,6 @@
 instale o tools
 rode o comando millennium
 execute o luatoolsinstaller
-#Be Happy
+# Be Happy
 
 Free steam
